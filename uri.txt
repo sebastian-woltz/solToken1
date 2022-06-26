@@ -1,0 +1,1 @@
+{"name":"URI TEST TOK","symbol":"TSTURI","description":"Testing link in URI","seller_fee_basis_points":0,"image":"https://www.arweave.net/d7ctE9ioN79CvGh2UhKSzukscqggOujbBp2YBa_DAa0?ext=png","external_url":"https://google.com","properties":{"category":"image","files":[{}]}}
